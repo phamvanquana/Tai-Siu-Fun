@@ -1,25 +1,8 @@
-+------------------------+---------------------------------------------------------+
-|                        |                                                         |
-|                        |                       FOR EDUCATIONAL ONLY - DEBUG: NO  |
-|                        |                                                         |
-|                        |                                                         |
-|                        |                                                         |
-|                        |                                                         |
-|                        |                  Tai Siu Python                         |
-|  TTTTTTTTT    sssssss  |                  Version: 1.0 (Beta 1)                  |
-|      T       ss        |                  All right reversed!                    |
-|      T       ss        |                                                         |
-|      T        sssssss  |                                                         |
-|      T      s       ss |                                                         |
-|      T      s       ss |                                                         |
-|      T      sssssssss  | LUU Y: Project danh cho muc dich hoc tap!               |
-|                        |        Vui long khong su dung code vao muc dich vi pham |
-|                        |        phap luat hay su dung vao game co bac online!    |
-|                        |                                                         |
-|                        |        Chung toi khong chiu trach nhiem ve cac hanh vi  |
-|                        |        vi pham phap luat cua cac ca nhan hay to chuc su |
-|                        |        dung trai phep ma nguon mo nay!                  |
-+------------------------+---------------------------------------------------------+
+*FOR EDUCATIONAL ONLY!*
+<br>Tai Siu Python</br>
+Version: 1.0 (Beta 1)
 
+LƯU Ý: Project dành cho mục đích học tập, vui lòng không sử dụng code vào mục đích vi phạm pháp luật hay sử dụng vào game cá cược online chưa được cấp phép!
+<br>***Chúng tôi không chịu trách nhiệm về các hành vi vi phạm pháp luật của các cá nhân hay tổ chức sử dụng trái phép mã nguồn mở này!***</br>
 - Đây là toàn bộ mã nguồn của app.
 - Mong mọi người đánh gía cũng như góp ý về app để app chạy tốt hơn!
